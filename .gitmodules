@@ -1,3 +1,0 @@
-[submodule "folder_a/submodule-test"]
-	path = folder_a/submodule-test
-	url = https://github.com/noam-hoze/submodule-test.git
